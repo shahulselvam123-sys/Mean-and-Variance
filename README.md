@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-# DATE:24/02/2026
+# DATE:26/02/2026
 
 # Aim : 
 
@@ -46,7 +46,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
-
 # Program :
 ```
 import numpy as np
@@ -82,7 +81,6 @@ print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 # Output : 
 <img width="646" height="98" alt="image" src="https://github.com/user-attachments/assets/5a5d4005-841c-4cae-b88f-b71c6205ffcd" />
-
 # Result :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
